@@ -164,4 +164,5 @@
     * Поддержать **Joubarbe** можно [здесь](https://www.buymeacoffee.com/Joubarbe).
 * Спасибо **Ashakar** за эффект залпов и дальнобойные атаки.
 * Спасибо **Sepa** за разрешение распространять мод Mothership!
+* Спасибо **temetvince** за мод alaankwa!
 * **Fallout(EG) / alexalsp** — за перевод на русский язык.
