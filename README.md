@@ -4,8 +4,6 @@
 # Alaankwa - RUS
 * **Нажмите [ЗДЕСЬ](https://github.com/alexalsp2/x3ap-lu-swlu-alaankwa-rus/archive/refs/heads/main.zip), чтобы скачать этот репозиторий.**
 
-* **"Alaankwa" означает "звезда" на языке Майами-Пеория (Myaamia)*
-
 
 # Домашняя страница 
 * https://apocalypse.moy.su
@@ -25,48 +23,64 @@
 * https://discord.gg/S587CRb [ENG]
 * https://discord.gg/yZqwPbJaCq [RUS]
 
-
-## Содержание
-1. [Сообщества](#сообщества)
-2. [Установка](#установка)
-    - [Предустановка](#предустановка)
-    - [Установка](#установка)
-    - [Постустановка](#постустановка)
-3. [Особенности](#особенности)
-    - [LU + Моды](#lu--моды)
-    - [Общие](#общие)
-    - [И другое](#и-другое)
-4. [Загрузки](#загрузка)
-5. [Благодарности](#благодарности)
-
 ## Сообщества
 * [Присоединяйтесь к Discord](https://discord.gg/S587CRb)
 * [Тема на форуме Egosoft](https://forum.egosoft.com/viewtopic.php?f=94&t=441824)
 
-## Установка
+## Описание
+**Alaankwa** — это мод для *X3: Albion Prelude*. Добавляет новые функции, стартовые сценарии, исправления и улучшения. Требует установленных модов **Litcube's Universe (LU)** или **Star Wars LU (SWLU)**. Совместим с аддоном **Galaxy in Chaos (GiC)**. Название Alaankwa означает "звезда" на языке Майами-Пеория (Myaamia).
 
-### Предустановка
-1. Убедитесь, что **Bonus Pack НЕ установлен**!
-2. Опционально скачайте и установите ReShade:
-   - [ReShade](https://reshade.me/)
-   - При запросе игры укажите X3AP.exe в папке с установленной X3.
-   - Игра использует Direct3D 9.
-   - При запросе выберите пресет temetvince.ini и установите предвыбранные шейдеры.
+## Установка (Для английской версии)
+1. Установите [X3: Albion Prelude](https://store.steampowered.com/app/201310/X3_Albion_Prelude/) через Steam.  
+   ⚠️ **Важно**: убедитесь, что *Bonus Pack* НЕ установлен!
+2. Запустите игру хотя бы один раз через Steam.
+3. Скопируйте папку *x3 terran conflict* из Steam в новое место (это будет *корневая папка*).
+4. Скачайте и поместите [No-Steam Exe](https://www.egosoft.com/download/x3ap/bonus_en.php) в корневую папку.
+5. *(Опционально)* Установите [ReShade](https://reshade.me/):
+   - Укажите No-Steam exe как исполняемый файл.
+   - Выберите **DirectX 9**.
+   - Установите пресет **temetvince.ini** и рекомендуемые шейдеры. (опционально)
+6. Установите [LU](https://www.x3collective.com/lu-setup/lu-downloads/) или [SWLU](https://www.moddb.com/mods/star-wars-lu-swlu/downloads) в корневую папку.
+7. Поместите [Alaankwa Installer](https://github.com/temetvince/alaankwa-installer) в корневую папку и запустите его.
+8. *(Опционально)* Для SWLU установите аддон [Galaxy in Chaos](https://www.moddb.com/mods/star-wars-lu-swlu/addons).
 
-### Установка
-1. Установите Litcube's Universe или Star Wars Litcube's Universe.
-2. РЕКОМЕНДУЕТСЯ: [Используйте установщик Alaankwa](https://github.com/temetvince/alaankwa-installer)
+## Настройка
+(Только для LU/SWLU, не для GiC)
+- Настройки: файл *addon/t/9979-L044.xml*
+- Для "экстремальной" версии Phanon:
+  - Замените на переименованный *9979-L044 (Phanon Extreme).xml*
+- Для применения "Улучшенного пилотирования" к кораблю игрока:
+  - Замените на *9979-L044 (Overachiever).xml*
+- Для сброса настроек:
+  - Замените на *9979-L044 (Default).xml*
+  
+  
+## Установка (Русские версии)
 
-ИЛИ
+* Alaankwa: https://apocalypse.moy.su/forum/341-1737-1
+* LU: https://apocalypse.moy.su/forum/341-1290-1
+* STLU: https://apocalypse.moy.su/forum/341-1760-1
+* SWLU: https://apocalypse.moy.su/forum/341-1290-1
+* GiC: https://apocalypse.moy.su/forum/341-1704-1
+* M3: https://apocalypse.moy.su/forum/341-1598-1
+* M3ZH: https://apocalypse.moy.su/forum/341-1763-1
+* Раздел форума с модами: https://apocalypse.moy.su/forum/341
 
-2. Скопируйте содержимое папки `x3 terran conflict` из Alaankwa в папку `x3 terran conflict` вашей LU.
+#  **Репаки глобальных модов**
+* https://apocalypse.moy.su/forum/216 
 
-### Постустановка
-- Чтобы включить Phanon Extreme для сложности, измените параметр `Phanon Extreme` (значение `150`) в файле `addon/t/9979-L044.xml` на `1` вместо `0`.
-- Чтобы включить автоматическое вращение вашего корабля, измените параметр `Overachiever` (значение `101`) в файле `addon/t/9979-L044.xml` на `1` вместо `0`.
-- Альтернативно, замените `addon/t/9979-L044.xml` переименованным файлом `addon/t/9979-L044 (Phanon Extreme).xml`, `addon/t/9979-L044 (Overachiever).xml` или `addon/t/9979-L044 (Overachiever + Phanon Extreme).xml`.
-> **Примечание**: Настройки по умолчанию дублируются в `addon/t/9979-L044 (Default).xml`.
 
+## Настройка (Русские версии)
+(Только для LU/SWLU, не для GiC)
+- Настройки: файл *addon/t/9979-L007.xml*
+- Для "экстремальной" версии Phanon:
+  - Замените на переименованный *9979-L007 (Phanon Extreme).xml*
+- Для применения "Улучшенного пилотирования" к кораблю игрока:
+  - Замените на *9979-L007 (Overachiever).xml*
+- Для сброса настроек:
+  - Замените на *9979-L007 (Default).xml*
+  
+  
 ## Особенности
 
 ### LU + Моды
@@ -124,6 +138,8 @@
         - Неблагонадежные инвесторы: Руководство не боится использовать для финансирования денежные средства из не слишком... надежных источников.
         - Грамотное руководство: Лидеры с хорошими связями получают высокую зарплату.
 
+
+
 ### И ДРУГОЕ
 - OCV должен стать немного умнее и лучше в плане экспансии.
 - Опциональное улучшение графики через ReShade.
@@ -143,28 +159,9 @@
 - Из игры удалены мамонты ATF Mapping Service (это был баг миссии).
 - Исправлен баг с экспортом/импортом OCV Mammoth.
 
-## Загрузка
-#   **Английские версии**
-* [No-Steam Exe](https://www.egosoft.com/download/x3ap/bonus_en.php)
-* [ReShade](https://reshade.me/)
-* [LU](https://www.x3collective.com/lu-setup/lu-downloads/)
-* [SWLU](https://www.moddb.com/mods/star-wars-lu-swlu/downloads)
-
-#  **Русские версии**
-* Alaankwa: https://apocalypse.moy.su/forum/341-1737-1
-* LU: https://apocalypse.moy.su/forum/341-1290-1
-* STLU: https://apocalypse.moy.su/forum/341-1760-1
-* SWLU: https://apocalypse.moy.su/forum/341-1290-1
-* GiC: https://apocalypse.moy.su/forum/341-1704-1
-* M3: https://apocalypse.moy.su/forum/341-1598-1
-* M3ZH: https://apocalypse.moy.su/forum/341-1763-1
-* Раздел форума с модами: https://apocalypse.moy.su/forum/341
-
-#  **Репаки глобальных модов**
-* https://apocalypse.moy.su/forum/216 
-
 ## Благодарности
-* Отдельная благодарность Joubarbe за Mayhem и разрешение использовать его код.
-    * Поддержать Joubarbe можно [здесь](https://www.buymeacoffee.com/Joubarbe).
-* Спасибо Ashakar за эффект залпов и дальнобойные атаки.
-* Спасибо Sepa за разрешение распространять мод Mothership!
+* Отдельная благодарность **Joubarbe за Mayhem** и разрешение использовать его код.
+    * Поддержать **Joubarbe** можно [здесь](https://www.buymeacoffee.com/Joubarbe).
+* Спасибо **Ashakar** за эффект залпов и дальнобойные атаки.
+* Спасибо **Sepa** за разрешение распространять мод Mothership!
+- **Fallout(EG) / alexalsp ** — за перевод на русский язык.

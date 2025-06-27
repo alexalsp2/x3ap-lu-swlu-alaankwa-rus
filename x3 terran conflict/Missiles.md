@@ -1,44 +1,44 @@
-# Missiles
-## High Powered
-* Firestorm Torpedo
-* Hammer Heavy Torpedo (M7M Anti-Capital)
-* Hammerhead Missile
-* Phantom Missile
-* Remote Guided Warhead
-* Spectre Missile
-* Tomahawk Heavy Missile
+# Ракеты
+## Высокой мощности
+* Торпеда "Огненный шторм"
+* Торпеда "Молот" (M7M, против капиталов)
+* Ракета "Голова молота"
+* Ракета "Фантом"
+* Удалённая управляемая боеголовка
+* Ракета "Спектр"
+* Тяжёлая ракета "Томагавк"
 
-## Dumbfire
-* Aurora Missile
-* Firefly Missile
-* Firelance Missile
-* Needle Missile
-* Thorn Missile
-* Tornado Missile
-* Windstalker Missile
+## Неуправляемые
+* Ракета "Аврора"
+* Ракета "Светлячок"
+* Ракета "Огненное копьё"
+* Ракета "Иголка"
+* Ракета "Шип"
+* Ракета "Торнадо"
+* Ракета "Странник ветра"
 
-## Seeker
-* Banshee Missile
-* Beluga Missile
-* Chaff
-* Cyclone Missile
-* Disruptor Missile
-* Dragonfly Missile
-* Hornet Missile
-* Hurricane Missile
-* Rapier Missile
-* Silkworm Missile
-* Sting Missile
-* Tempest Missile
-* Thunderbolt Missile
-* Wildfire Missile
-* Boarding Pod
+## Самонаводящиеся
+* Ракета "Банши"
+* Ракета "Белуга"
+* Ложные цели (Chaff)
+* Ракета "Циклон"
+* Ракета "Дезорганизатор"
+* Ракета "Стрекоза"
+* Ракета "Шершень"
+* Ракета "Ураган"
+* Ракета "Рапира"
+* Ракета "Шёлк"
+* Ракета "Жало"
+* Ракета "Буря"
+* Ракета "Громовержец"
+* Ракета "Огненный вихрь"
+* Посадочная капсула (Абордажная капсула)
 
-## Swarm
-* Flail Barrage Missile (M7M Anti-Fighter)
-* Ghoul Missile (M7M Anti-Fighter)
-* Poltergeist Missile
-* Shadow Missile (M7M Anti-Capital)
-* Typhoon Missile
-* Wasp Missile
-* Wraith Missile
+## Роевые
+* Залповая ракета "Кнут" (M7M, против истребителей)
+* Ракета "Упырь" (M7M, против истребителей)
+* Ракета "Полтергейст"
+* Ракета "Тень" (M7M, против капиталов)
+* Ракета "Тайфун"
+* Ракета "Оса"
+* Ракета "Гнев"
