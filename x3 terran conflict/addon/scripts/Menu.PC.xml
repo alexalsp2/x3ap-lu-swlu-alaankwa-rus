@@ -13,7 +13,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Player Console'</text>
+			<text>'Персональная консоль'</text>
 		</line>
 		<line linenr="002" indent="">
 			<var>$Text</var>
@@ -105,7 +105,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Empire Reports'</text>
+			<text>'Отчёты Империи'</text>
 		</line>
 		<line linenr="012" indent="&#160;" />
 		<line linenr="013" indent="&#160;">
@@ -126,7 +126,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Asteroids'</text>
+			<text>'Астероиды'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -150,7 +150,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Market capacity'</text>
+			<text>'Ёмкость рынка'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -174,7 +174,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Market averages'</text>
+			<text>'Средние рыночные цены'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -198,7 +198,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Saturn Complex Hub Calculator'</text>
+			<text>'Калькулятор ГМК Сатурн'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -254,7 +254,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Sector security complaints'</text>
+			<text>'Запросы секторной безопасности'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -278,7 +278,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Total asset value'</text>
+			<text>'Оценка активов игрока'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -302,7 +302,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Trade report archive'</text>
+			<text>'Архив торгового отчёта'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -327,7 +327,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Empire Settings'</text>
+			<text>'Настройки империи'</text>
 		</line>
 		<line linenr="023" indent="&#160;" />
 		<line linenr="024" indent="&#160;">
@@ -348,7 +348,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Quickshuttles'</text>
+			<text>'Челноки: заправка / сборщик лута'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -372,7 +372,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Set home point'</text>
+			<text>'Установить домашний сектор'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -396,7 +396,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Set station transfer credit low-water mark'</text>
+			<text>'Задать мин.предел станционного перевода'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -420,7 +420,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Template manager'</text>
+			<text>'Менеджер шаблонов оборудования'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -444,7 +444,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'UT ignore stray ware warnings'</text>
+			<text>'ГТ игнорировать ненужный товар'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -468,7 +468,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'UT blacklist wares'</text>
+			<text>'ГТ чёрный список товаров'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -494,7 +494,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Empire Functions'</text>
+			<text>'Функции империи'</text>
 		</line>
 		<line linenr="033" indent="&#160;" />
 		<line linenr="034" indent="&#160;">
@@ -515,7 +515,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Blueprint manager'</text>
+			<text>'Менеджер чертежей'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -539,7 +539,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Export empire'</text>
+			<text>'Экспорт империи'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -563,7 +563,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Global ship naming'</text>
+			<text>'Глобальное переименование кораблей'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -587,7 +587,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Global ship set homebase'</text>
+			<text>'Глобальная установка базы приписки'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -633,7 +633,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Phanon Industrial Espionage'</text>
+			<text>'Промышленный шпионаж корпорации Фанон'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -657,7 +657,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Player Journal'</text>
+			<text>'Журнал игрока'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -681,7 +681,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Ship Compendium Plus'</text>
+			<text>'Сравнение кораблей Плюс'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -705,7 +705,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Cheat: All of Space'</text>
+			<text>'Чит: Открыть все сектора'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -736,7 +736,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'LU Debug'</text>
+			<text>'LU Отладка'</text>
 		</line>
 		<line linenr="049" indent="&#160;&#160;">
 			<text>add</text>
@@ -756,7 +756,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Phanon Spy'</text>
+			<text>'Шпион Фанон'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -1692,16 +1692,16 @@
 		<line linenr="172" indent="&#160;">
 			<text>end</text>
 		</line>
-		<line linenr="173" indent="&#160;" />
-		<line linenr="174" indent="">
+		<line linenr="173" indent="">
 			<text>end</text>
 		</line>
-		<line linenr="175" indent="" />
-		<line linenr="176" indent="">
+		<line linenr="174" indent="" />
+		<line linenr="175" indent="">
 			<text>return</text>
 			<text> </text>
 			<var>null</var>
 		</line>
+		<line linenr="176" indent="" />
 		<line linenr="177" indent="" />
 		<line linenr="178" indent="" />
 		<line linenr="179" indent="" />
@@ -1714,7 +1714,6 @@
 		<line linenr="186" indent="" />
 		<line linenr="187" indent="" />
 		<line linenr="188" indent="" />
-		<line linenr="189" indent="" />
 	</sourcetext>
 	<codearray>
 		<sval type="array" size="10">
@@ -1748,7 +1747,7 @@
 					<sval type="int" val="0" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Player Console" />
+					<sval type="string" val="Персональная консоль" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1798,14 +1797,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Empire Reports" />
+					<sval type="string" val="Отчёты Империи" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1447" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Asteroids" />
+					<sval type="string" val="Астероиды" />
 					<sval type="int" val="5" />
 					<sval type="string" val="asteroids" />
 				</sval>
@@ -1814,7 +1813,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Market capacity" />
+					<sval type="string" val="Ёмкость рынка" />
 					<sval type="int" val="5" />
 					<sval type="string" val="MarketCapacity" />
 				</sval>
@@ -1823,7 +1822,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Market averages" />
+					<sval type="string" val="Средние рыночные цены" />
 					<sval type="int" val="5" />
 					<sval type="string" val="MarketAverages" />
 				</sval>
@@ -1832,7 +1831,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Saturn Complex Hub Calculator" />
+					<sval type="string" val="Калькулятор ГМК Сатурн" />
 					<sval type="int" val="5" />
 					<sval type="string" val="SCHCalculator" />
 				</sval>
@@ -1849,7 +1848,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sector security complaints" />
+					<sval type="string" val="Запросы секторной безопасности" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 				</sval>
@@ -1858,7 +1857,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Total asset value" />
+					<sval type="string" val="Оценка активов игрока" />
 					<sval type="int" val="5" />
 					<sval type="string" val="TotalAssetValue" />
 				</sval>
@@ -1867,7 +1866,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Trade report archive" />
+					<sval type="string" val="Архив торгового отчёта" />
 					<sval type="int" val="5" />
 					<sval type="string" val="TradeReportArchive" />
 				</sval>
@@ -1876,14 +1875,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Empire Settings" />
+					<sval type="string" val="Настройки империи" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1447" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttles" />
+					<sval type="string" val="Челноки: заправка / сборщик лута" />
 					<sval type="int" val="5" />
 					<sval type="string" val="Quickshuttles" />
 				</sval>
@@ -1892,7 +1891,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Set home point" />
+					<sval type="string" val="Установить домашний сектор" />
 					<sval type="int" val="5" />
 					<sval type="string" val="SetHomePoint" />
 				</sval>
@@ -1901,7 +1900,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Set station transfer credit low-water mark" />
+					<sval type="string" val="Задать мин.предел станционного перевода" />
 					<sval type="int" val="5" />
 					<sval type="string" val="StationCreditLowWaterMark" />
 				</sval>
@@ -1910,7 +1909,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template manager" />
+					<sval type="string" val="Менеджер шаблонов оборудования" />
 					<sval type="int" val="5" />
 					<sval type="string" val="TemplateManager" />
 				</sval>
@@ -1919,7 +1918,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="UT ignore stray ware warnings" />
+					<sval type="string" val="ГТ игнорировать ненужный товар" />
 					<sval type="int" val="5" />
 					<sval type="string" val="UTIgnoreStrayWare" />
 				</sval>
@@ -1928,7 +1927,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="UT blacklist wares" />
+					<sval type="string" val="ГТ чёрный список товаров" />
 					<sval type="int" val="5" />
 					<sval type="string" val="UTBlacklistWares" />
 				</sval>
@@ -1937,14 +1936,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Empire Functions" />
+					<sval type="string" val="Функции империи" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1447" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Blueprint manager" />
+					<sval type="string" val="Менеджер чертежей" />
 					<sval type="int" val="5" />
 					<sval type="string" val="BlueprintManager" />
 				</sval>
@@ -1953,7 +1952,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export empire" />
+					<sval type="string" val="Экспорт империи" />
 					<sval type="int" val="5" />
 					<sval type="string" val="ExportEmpire" />
 				</sval>
@@ -1962,7 +1961,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Global ship naming" />
+					<sval type="string" val="Глобальное переименование кораблей" />
 					<sval type="int" val="5" />
 					<sval type="string" val="GlobalShipNaming" />
 				</sval>
@@ -1971,7 +1970,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Global ship set homebase" />
+					<sval type="string" val="Глобальная установка базы приписки" />
 					<sval type="int" val="5" />
 					<sval type="string" val="GlobalShipHomebase" />
 				</sval>
@@ -1987,7 +1986,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Phanon Industrial Espionage" />
+					<sval type="string" val="Промышленный шпионаж корпорации Фанон" />
 					<sval type="int" val="5" />
 					<sval type="string" val="PhanonEspionage" />
 				</sval>
@@ -1996,7 +1995,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Player Journal" />
+					<sval type="string" val="Журнал игрока" />
 					<sval type="int" val="5" />
 					<sval type="string" val="PJournal" />
 				</sval>
@@ -2005,7 +2004,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship Compendium Plus" />
+					<sval type="string" val="Сравнение кораблей Плюс" />
 					<sval type="int" val="5" />
 					<sval type="string" val="ShipCompendium" />
 				</sval>
@@ -2014,7 +2013,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cheat: All of Space" />
+					<sval type="string" val="Чит: Открыть все сектора" />
 					<sval type="int" val="5" />
 					<sval type="string" val="TVAoS" />
 				</sval>
@@ -2032,14 +2031,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="LU Debug" />
+					<sval type="string" val="LU Отладка" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1447" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Phanon Spy" />
+					<sval type="string" val="Шпион Фанон" />
 					<sval type="int" val="5" />
 					<sval type="string" val="Phanon" />
 				</sval>
@@ -2714,7 +2713,7 @@
 				</sval>
 			</sval>
 			<sval type="int" val="0" />
-			<sval type="array" size="86">
+			<sval type="array" size="85">
 				<sval type="array" size="2">
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
@@ -2999,10 +2998,6 @@
 				<sval type="array" size="2">
 					<sval type="int" val="102" />
 					<sval type="int" val="4" />
-				</sval>
-				<sval type="array" size="2">
-					<sval type="int" val="102" />
-					<sval type="int" val="2" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="103" />

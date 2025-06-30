@@ -41,8 +41,9 @@
    - Выберите **DirectX 9**.
    - Установите пресет **temetvince.ini** и рекомендуемые шейдеры. (опционально)
 6. Установите [LU](https://www.x3collective.com/lu-setup/lu-downloads/) или [SWLU](https://www.moddb.com/mods/star-wars-lu-swlu/downloads) в корневую папку.
-7. Поместите [Alaankwa Installer](https://github.com/temetvince/alaankwa-installer) в корневую папку и запустите его.
-8. *(Опционально)* Для SWLU установите аддон [Galaxy in Chaos](https://www.moddb.com/mods/star-wars-lu-swlu/addons).
+7. *Необязательно:* Если вы используете Star Wars Litcube's Universe, установите аддон [Galaxy in Chaos](https://www.moddb.com/mods/star-wars-lu-swlu/addons) в *корневую* папку игры. (**Русский по ссылке ниже**)
+8. Поместите [установщик Alaankwa](https://github.com/temetvince/alaankwa-installer) в *корневую* папку и запустите его.  
+   – Установщик автоматически загрузит последнюю версию Alaankwa и установит её в вашу *корневую* папку.
 
 ## Настройка
 (Только для LU/SWLU, не для GiC)

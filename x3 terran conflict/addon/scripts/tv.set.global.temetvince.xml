@@ -133,10 +133,9 @@
 			<text>exist</text>
 			<text>:</text>
 			<text> </text>
-			<call>gic.alaankwa</call>
+			<call>al.GiCMisc.Main</call>
 		</line>
 		<line linenr="021" indent="&#160;&#160;">
-			<text>    </text>
 			<text>set</text>
 			<text> </text>
 			<text>global</text>
@@ -3679,7 +3678,7 @@
 				<sval type="array" size="3">
 					<sval type="int" val="1600" />
 					<sval type="int" val="-1610608632" />
-					<sval type="string" val="gic.alaankwa" />
+					<sval type="string" val="al.GiCMisc.Main" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="157" />
